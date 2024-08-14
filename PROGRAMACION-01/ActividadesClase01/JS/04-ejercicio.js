@@ -8,7 +8,7 @@ aplicación (por ejemplo, "Juego", "Redes sociales", "Utilidad"). */
 
 // Objeto literal que representa una aplicación de teléfono
 const aplicacion = {
-    nombre: "Snapchat",
+    nombre: "facebook",
     categoria: "redes sociales",
     tamaño: "250MB",
     calificacion: 4.5
